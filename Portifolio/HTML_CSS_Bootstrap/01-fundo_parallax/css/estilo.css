@@ -1,0 +1,107 @@
+/*--- PARALLAX ---*/
+*{margin: 0;}
+
+body, html{
+	font: 16px "Lato", sans-serif;
+	color: #777;
+	height: 100%;
+	margin: 0;
+}
+
+/* Barra de navegação
+-----------------------------*/
+nav.navbar-transparente {
+	padding: 15px 0px;
+	background: rgba(0,0,0,0);
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: white;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	color: #9bf0e1;
+}
+
+.navbar-light .navbar-toggler {
+    color: rgba(255,255,255,0.5);
+    border-color: rgba(255,255,255,0.5);
+}
+
+.divisor {
+	width: 1px;
+	background: gray;
+	margin: 12px 15px;
+}
+
+/* Efeito Parallax
+-----------------------------*/
+
+.bg1, .bg2, .bg3, .bg4{
+	height: 100%;
+	background-size: cover; /*pode ser usado 100% também ao inves de cover*/
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	opacity: 0.7;
+	position: relative;
+}
+
+h3{
+	text-transform: uppercase;
+	color: #111;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+p{
+	margin-bottom: 20px;
+}
+
+.conteudo{
+	color: #777;
+	background: white;
+	text-align: justify;
+	padding: 50px 80px;
+}
+
+.bg1{
+	background-image: url(../imagens/imagem1.jpg);
+}
+.bg2{
+	background-image: url(../imagens/imagem2.jpg);
+}
+.bg3{
+	background-image: url(../imagens/imagem3.jpg);
+}
+.bg4{
+	background-image: url(../imagens/imagem4.jpg);
+}
+
+.conteudo-titulo{
+	position: absolute;
+	left: 0%;
+	top: 45%;
+	width: 100%;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.conteudo-titulo span{
+	color: #fff;
+	background-color: #111;
+	padding: 18px;
+	font-size: 25px;
+	letter-spacing: 5px;
+}
+
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    .fa-user-astronaut{
+		margin-left: 20px;
+	}
+    .navbar-toggler{
+		margin-right: 20px;
+	}
+}
