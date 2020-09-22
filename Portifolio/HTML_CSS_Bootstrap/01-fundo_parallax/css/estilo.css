@@ -104,4 +104,14 @@ p{
     .navbar-toggler{
 		margin-right: 20px;
 	}
+	.conteudo-titulo span{
+		font-size: 1.2em;
+		padding: 5px;
+	}
+	.conteudo{
+		padding: 20px 10px;
+	}
+	.conteudo h3{
+		font-size: 1.2em;
+	}
 }

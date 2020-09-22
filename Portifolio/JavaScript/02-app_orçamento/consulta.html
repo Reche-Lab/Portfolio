@@ -1,6 +1,8 @@
+<!DOCTYPE html>
 <html>
 	<head>
-    <meta charset="utf-8" />
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<title>Orçamento pessoal</title>
 
 		<!-- Bootstrap início -->
@@ -16,6 +18,8 @@
 
     <!-- Script do app -->
     <script type="text/javascript" src="app.js"></script>
+
+    <style type="text/css">@media(max-width: 575.98px){.display-4{font-size: 2em;}}</style>
 
 	</head>
 
@@ -46,21 +50,26 @@
     </nav>
 
     <div class="container">
-      <div class="row mb-5">
+      <div class="row mb-3 mt-3">
         <div class="col">
           <h1 class="display-4">Consulta de despesas</h1>
         </div>
       </div>
 
       <div class="row mb-2">
-        <div class="col-md-2">
+        <div class="col-md-2 mb-2">
           <select class="form-control" id="ano">
             <option value="">Ano</option>
+            <option value="2016">2016</option>
+            <option value="2017">2017</option>
             <option value="2018">2018</option>
+            <option value="2019">2019</option>
+            <option value="2020">2020</option>
+            <option value="2020">2021</option>
           </select>
         </div>
 
-        <div class="col-md-2">
+        <div class="col-md-2 mb-2">
           <select class="form-control" id="mes">
             <option value="">Mês</option>
             <option value="1">Janeiro</option>
@@ -78,11 +87,11 @@
           </select>
         </div>
         
-        <div class="col-md-2">
+        <div class="col-md-2 mb-2">
           <input type="text" class="form-control" placeholder="Dia" id="dia" />
         </div>
 
-        <div class="col-md-6">
+        <div class="col-md-6 mb-2">
           <select class="form-control" id="tipo">
             <option value="">Tipo</option>
             <option value="1">Alimentação</option>
@@ -94,16 +103,16 @@
         </div>
       </div>
 
-      <div class="row  mb-5">
-        <div class="col-md-8">
+      <div class="row mb-5">
+        <div class="col-md-8  mb-2">
           <input type="text" class="form-control" placeholder="Descrição" id="descricao" />
         </div>
 
-        <div class="col-md-2">
+        <div class="col-md-2 mb-2">
           <input type="text" class="form-control" placeholder="Valor" id="valor" />
         </div>
 
-        <div class="col-md-2 d-flex justify-content-end">
+        <div class="col-md-2 d-flex justify-content-end mb-2">
           <button type="button" class="btn btn-primary" onclick="pesquisarDespesa()">
             <i class="fas fa-search"></i>
           </button>
