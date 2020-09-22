@@ -114,4 +114,8 @@ p{
 	.conteudo h3{
 		font-size: 1.2em;
 	}
+	.bg1, .bg2, .bg3, .bg4{
+		background-size: 800px;
+	}
+
 }
