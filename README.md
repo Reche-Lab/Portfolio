@@ -6,7 +6,7 @@
 
 ## :information_source: Quem é Bruno Reche?
 
-Bruno é um profissional dedicado que já passou por diferentes áreas de atuação como RH, nas empresas Allianz e Honda, finanças nas empresas Fleury e B3, já criou e administrou a [AlmaVet Clínica Veterinária](http://www.almavet.com.br), por 5 anos, e vem desde jan/2020 se dedicando à área de desenvolvimento com linguagem de programação, além de ter realizado projetos nas plataformas Wordpress e Wix. Atualmente trabalha e estuda HTML, CSS, Java Script, PHP, e Python, além de frameworks como Bootstrap e React.
+Bruno é um profissional dedicado formado em Administração de Empresas pelo Mackenzie e Pós-Graduado em Master in Financial Economics pela FGV, que já passou por diferentes áreas de atuação como RH, nas empresas Allianz e Honda, finanças nas empresas Fleury e B3, já criou e administrou a [AlmaVet Clínica Veterinária](http://www.almavet.com.br), por 5 anos, e vem desde jan/2020 se dedicando à área de desenvolvimento com linguagem de programação, além de ter realizado projetos nas plataformas Wordpress e Wix. Atualmente trabalha e estuda HTML, CSS, Java Script, PHP, e Python, além de frameworks como Bootstrap e React.
 
 ## 💻 Projeto
 
