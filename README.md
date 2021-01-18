@@ -6,7 +6,7 @@
 
 ## :information_source: Quem é Bruno Reche?
 
-Bruno é um profissional dedicado que já passou passou por diferentes áreas como RH, e Financeira, já teve seu próprio negácio por 5 anos, e que vem se dedicando à área de desenvolvimento com linguagem de programação, além de ter realizado projetos com Wordpress e Wix. Atualmente trabalha e estuda HTML, CSS, Java Script, PHP, e Python, além de frameworks como Bootstrap e React.
+Bruno é um profissional dedicado que já passou por diferentes áreas de atuação como RH, nas empresas Allianz e Honda, finanças nas empresas Fleury e B3, já criou e administrou a [AlmaVet Clínica Veterinária](http://www.almavet.com.br), por 5 anos, e vem desde jan/2020 se dedicando à área de desenvolvimento com linguagem de programação, além de ter realizado projetos nas plataformas Wordpress e Wix. Atualmente trabalha e estuda HTML, CSS, Java Script, PHP, e Python, além de frameworks como Bootstrap e React.
 
 ## 💻 Projeto
 
@@ -18,7 +18,7 @@ O [portfólio](https://www.rechelab.epizy.com) foi preparado com pequenos projet
 
 ## :rocket: Tecnologias
 
-Este projeto foi desenvolvido utilizando:
+Os projetos foram desenvolvidos utilizando:
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
@@ -26,3 +26,4 @@ Este projeto foi desenvolvido utilizando:
 - [PHP](https://www.php.net/manual/pt_BR/intro-whatis.php)
 - [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
+## ♥ Obrigado por vir!
